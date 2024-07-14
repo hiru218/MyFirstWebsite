@@ -1,0 +1,19 @@
+.page-banner {
+    margin-top: 30px;
+    padding: 15px;
+    background-color:#000066;
+    border-style: solid;
+    border-color:white;
+    color:white;
+    font-family: Calisto MT;
+    font-size:x-large;
+}
+
+.w3l_footer_grid {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    background: #212121;
+    text-align: center;
+}
+
